@@ -1,3 +1,4 @@
+//累乗を追加しました
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
